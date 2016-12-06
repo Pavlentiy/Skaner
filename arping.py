@@ -1,6 +1,5 @@
 #!/usr/bin/env python
 # -*- coding: utf8 -*-
-from sh import echo
 import subprocess
 def rr_dd():		
 	for c in a:

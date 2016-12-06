@@ -6,7 +6,7 @@
 	---OFFLINE---
 
 ---IP---192.168.0.102
-	---OFFLINE---
+	---ONLINE---
 
 ---IP---192.168.0.103
-	---OFFLINE---
+	---ONLINE---

@@ -22,7 +22,7 @@ try:
 	a=open("/root/MyScripts/ip.txt", "r")
 except (IOError, NameError):
 	k="\n\t------ Net faila s IP adresami v papke s ispolnyemim failom ------\n\n\t------\
-	Sozdaite tekstoviy dokument i napihite skaniruemae hosti ------\n"
+	Sozdaite tekstoviy dokument i napihite skaniruemae IP adresa ------\n"
 	print (k)
 	b.write(k)
 	a=open("/root/MyScripts/ip.txt", "w+")
